@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { Fragment, useContext, useState } from "react";
 import NavContext from "../context/navContext";
 import {
@@ -236,7 +237,7 @@ const Work = () => {
                     </span>
                   </li> */}
                 </ul>
-                <a href="https://emerzon2519.github.io/Pagina-servicios/" target="_blank" className="btn">
+                <a href="https://emerzon2519.github.io/Pagina-servicios/" target="_blank" className="btn" rel="noreferrer">
                   <span>
                     <i className="fa fa-external-link" />
                     Ver

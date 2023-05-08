@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import Layouts from "../src/layouts/Layouts";
 const BlogPost = () => {
   return (
