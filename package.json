@@ -1,13 +1,14 @@
 {
   "homepage": "https://Emerzon2519.github.io/Portafolio-Web",
-  "name": "istanbul-react",
+  "name": "portafolio-web",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d out",
     "dev": "next dev",
     "build": "next build",
+    "export": "next export",
     "start": "next start",
     "lint": "next lint"
   },

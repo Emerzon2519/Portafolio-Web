@@ -26,7 +26,7 @@ const About = () => {
               />
             </div>
             <p className="d-block d-md-none">
-              {`I'm`} Soy un Desarrollador Web Frontend, y soy muy apasionado y dedicado a mi trabajo. Con 1 año de experiencia como Desarrollador de Sofware, he adquirido las habilidades y conocimientos necesarios para que la empresa tenga éxito.
+            Soy un Desarrollador Web Frontend, y soy muy apasionado y dedicado a mi trabajo. Con mas de 1 año de experiencia realizando páginas web con todo tipo de tecnologías, he adquirido las habilidades y conocimientos necesarios para que el cliente quede satisfecho.
             </p>
           </div>
           <div className="row col-xl-6 col-lg-6 col-md-12">
